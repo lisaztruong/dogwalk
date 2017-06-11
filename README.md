@@ -1,4 +1,4 @@
-# Horizons Hackathon Template.
+# HH Template.
 
 
 ## Steps 1: Get your project set-up
